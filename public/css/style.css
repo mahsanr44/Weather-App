@@ -1,0 +1,21 @@
+h1{
+    color: coral
+}
+.i-tag{
+    color:seagreen
+}
+.label{
+    font-weight:999
+}
+.input{
+    padding:5px;
+     border-radius:5px
+}
+.btn{
+    background-color: deepskyblue;
+    color:aliceblue;
+    border:1px solid black; 
+    padding :5px; 
+    border-radius:5px;
+     cursor:pointer
+}
